@@ -1,12 +1,10 @@
 # derpsite.github.io
-# H1
-## H2
+# GIA'S DERPJECT
+## DID THIS WEBSITE JUST FALL OFF OF THE COVER OF DERP MAGAZINE?!?!?!? Welcome to gia's derpy little website. Bring your popped-corn, doge, and nyan cat, and get ready to tuck in. I miss you. 
 ### H3
 #### H4
 ##### H5
 ###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-GIA'S DERPJECT
 ======
