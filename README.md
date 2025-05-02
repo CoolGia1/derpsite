@@ -5,5 +5,3 @@
 #### derp derp derp derp derp derp derp derp derp derp derp derp derp
 #####  derp derp derp derp derp derp derp derp derp derp derp derp derp
 ######  derp derp derp derp derp derp derp derp derp derp derp derp derp
-
-![alt text]([http://url/to/img.png](https://ih1.redbubble.net/image.515295314.4667/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg))
