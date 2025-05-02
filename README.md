@@ -2,9 +2,113 @@
 # GIA'S DERPJECT
 ## DID THIS WEBSITE JUST FALL OFF OF THE COVER OF DERP MAGAZINE?!?!?!? Welcome to gia's derpy little website. Bring your popped-corn, doge, and nyan cat, and get ready to tuck in. I miss you. 
 ### derp derp derp derp derp derp derp derp derp derp derp derp derp 
-#### H4 derp derp derp derp derp derp derp derp derp derp derp derp derp
-##### H5 derp derp derp derp derp derp derp derp derp derp derp derp derp
-###### H6 derp derp derp derp derp derp derp derp derp derp derp derp derp
+#### derp derp derp derp derp derp derp derp derp derp derp derp derp
+#####  derp derp derp derp derp derp derp derp derp derp derp derp derp
+######  derp derp derp derp derp derp derp derp derp derp derp derp derp
 
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<title>PieClicker | CopyPaste Games</title>
 
+		<meta name="description" content="PieClicker is a fun and interesting idle clicker game with a baking theme! Built to be visually appealing and easy to play!">
+		<meta name="keywords" content="Pie, Clicker, kgsensei, CopyPaste Games, Clicker Games, Cookie Clicker, Pie Inc, Game, Steam">
+		<meta name="author" content="kgsensei">
+        <meta name="author" content="CopyPaste Games">
+		<meta name="url" content="https://pieclicker.com">
+		<meta name="copyright" content="kgsensei">
+
+        <meta property="og:type" content="website">
+		<meta property="og:url" content="https://pieclicker.com">
+		<meta property="og:title" content="PieClicker">
+        <meta property="og:site_name" content="PieClicker">
+		<meta property="og:description" content="PieClicker is a fun and interesting idle clicker game with a baking theme! Built to be visually appealing and easy to play!">
+
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:url" content="http://pieclicker.com/imgs/Header_Capsule.png">
+		<meta property="og:image:secure_url" content="https://pieclicker.com/imgs/Header_Capsule.png">
+		<meta property="og:image:width" content="460">
+		<meta property="og:image:height" content="215">
+        <meta property="og:image:alt" content="PieClicker is an interesting idle clicker game with a baking theme!">
+
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:url" content="http://pieclicker.com/imgs/Library_Capsule.png">
+		<meta property="og:image:secure_url" content="https://pieclicker.com/imgs/Library_Capsule.png">
+		<meta property="og:image:width" content="600">
+		<meta property="og:image:height" content="900">
+        <meta property="og:image:alt" content="PieClicker is an interesting idle clicker game with a baking theme!">
+
+        <meta name="robots" content="index,follow,max-image-preview:standard">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:creator" content="@realkgsensei">
+
+        <meta name="theme-color" content="#fc496dff">
+
+		<script async src="https://kgsensei.dev/js/ka.js"></script>
+		<link rel="icon" href="./assets/Pie.webp">
+
+        <script src="https://kgsensei.dev/js/er.js"></script>
+        <script>window.er_init("pieclicker.com")</script>
+        
+		<link rel="stylesheet" href="./index.css">
+	</head>
+	<body>
+		<div id="game_intro_panel">
+            <h1 id="game_intro_title">PieClicker</h1>
+            <img id="game_intro_pie" src="./assets/home_pie_rotation.png" alt="PieClicker Pie Variants">
+        </div>
+        <iframe id="video" src="https://www.youtube-nocookie.com/embed/l_phF4vLusc" loading="lazy"></iframe>
+        <div id="video_sub">
+            Get it on <a href="https://store.steampowered.com/app/2380870/PieClicker?utm_source=PieClickerWebsite" target="_blank" class="btn_link">Steam</a>
+        </div>
+        <img id="new_area_one" src="./assets/home_new_area_1.svg">
+        <img id="new_area_two" src="./assets/home_new_area_2.svg">
+        <div id="section_two_panel">
+            <h1>A <span class="special_text">Pie Themed</span> Clicker Game</h1>
+            <h2>Designed to be <span class="special_text">Visually Appealing</span></h2>
+        </div>
+        <div id="new_area_thr">
+            <img class="fullImg" src="./assets/PieOreoCheesecake.webp">
+        </div>
+        <div id="section_thr_panel">
+            <h1>Built for <span class="special_text">Maximum Entertainment</span></h1>
+            <div id="qbox">
+                <div class="wheel_btn" id="qlt" onclick="dwn()">
+                    <div class="centerText">&lt;</div>
+                </div>
+                <div id="quotes"></div>
+                <div class="wheel_btn" id="qgt">
+                    <div class="centerText" onclick="up()">&gt;</div>
+                </div>
+            </div>
+        </div>
+        <div id="new_area_for">
+            <img id="secondImage" src="./assets/PieStrawberry.webp">
+        </div>
+        <div id="section_for_panel">
+            <h1>Want to <span class="special_text">Test it Out</span>?</h1>
+            <h2>
+                Play the <span class="special_text">Full Game</span> on <a href="https://store.steampowered.com/app/2380870/PieClicker?utm_source=PieClickerWebsite" target="_blank" class="btn_link">STEAM</a>
+            </h2>
+        </div>
+        <div id="section_fiv_panel">
+            <a href="https://store.steampowered.com/app/2380870/PieClicker?utm_source=PieClickerWebsite" target="_blank" class="btn_link">Steam</a>
+            <a href="./wiki/home" target="_blank" class="btn_link">PieClicker Wiki</a>
+            <a href="https://www.youtube.com/channel/UC7psPcx5CdWsOVwKXzvbwcQ" target="_blank" class="btn_link">YouTube</a>
+            <br><br>
+            <br><br>
+            <br>
+            PieClicker is a CopyPaste Games and <a href="https://kgsensei.dev" target="_blank" class="special_text">kgsensei</a>
+            project. PieClicker and all associated assets are Copyright &copy; CopyPaste Games and kgsensei, 2023. All Rights Reserved.
+            By visiting this website you consent to performance tracking, your personal information will not be collected or shared.
+            PieClicker, CopyPaste Games, and kgsensei are not responsible for improper usage of currency and under no circumstances are
+            required to provide refunds. Pirating software is a federal crime, don't do it. Usage of cheats on PieClicker is not permitted
+            and may result with in game consequences.
+        </div>
+        <script src="./homepage.js"></script>
+	</body>
+</html>
 
